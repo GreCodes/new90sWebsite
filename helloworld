@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+body {
+  
+   text-align: center;
+  background-color: #ff0066;
+}
+
+BUTTON {
+  background-color: pink;
+  padding: 20px;
+ border-radius: 12px;
+ font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #ff4da6;
+  font-size: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ff4da6;
+  color: white;
+  text-align: center;
+   font-family: "Comic Sans MS", "Comic Sans", cursive;
+  
+}
+
+iframe {
+ border-radius: 20px;
+ 
+  height: 320px;
+  width: 480px;
+}
+</head>
+  <body>
+  <br>
+    <br>
+    <button onclick="helloWorld()">Click me!</button>
+   <script> function helloWorld(){
+       
+     alert("Hello World");
+undefined
+alert("This is me");
+undefined
+alert("Life should be...");
+undefined
+alert("FUN FOR EVERYONE!!!");
+     }
+    </script>
+    
+    <br>
+    <br>
+    
+    
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eZyU6H3NcT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </body>
+  <div class="footer">
+  <p>Made with ♥ by GreCodes in 1999</p>
+</html>
+  
+  
