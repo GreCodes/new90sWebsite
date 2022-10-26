@@ -6,10 +6,10 @@ So, there is this song from Belgian/Spanish singer Belle Perez, who plays in my 
 
 What I practiced: 
 
--Adding those annoying JavaScript alerts.
--Formatting text using the sometimes loathed at Comic Sans.
--Adding a video with rounded corners.
--Adding a button with rounded corners.
--Adding a footer.
+- Adding those annoying JavaScript alerts.
+- Formatting text using the sometimes loathed at Comic Sans.
+- Adding a video with rounded corners.
+- Adding a button with rounded corners.
+- Adding a footer.
 
 [This is how it looks like now](https://codepen.io/GreCodes/full/YzvKPGw)
