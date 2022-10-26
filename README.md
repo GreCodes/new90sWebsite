@@ -9,8 +9,8 @@ So, there is this song by Belgian/Spanish singer Belle Perez, playing my head wh
 
 What I practiced: 
 
-- Adding those annoying JavaScript alerts.
-- Formatting text using the sometimes loathed at Comic Sans.
+- Adding ~~those annoying JavaScript~~ alerts.
+- Formatting text using ~~the sometimes loathed~~ Comic Sans font style.
 - Adding a video with rounded corners.
 - Adding a button with rounded corners.
 - Adding a footer.
