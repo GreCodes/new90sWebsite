@@ -4,10 +4,8 @@
 So, there is this song by Belgian/Spanish singer Belle Perez, playing my head whenever I write code, or whatever everything tech-related I do. 
 
  ![Belle Perez](https://static.standaard.be/Assets/Images_Upload/2006/05/08/belle06.jpg?maxheight=416&maxwidth=568&scale=both) 
- 
-### So have a look at this super simple project that made me smile. 
 
-What I practiced: 
+### What I practiced: 
 
 - Adding ~~those annoying JavaScript~~ alerts.
 - Formatting text using ~~the sometimes loathed~~ Comic Sans font style.
